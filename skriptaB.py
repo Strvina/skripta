@@ -10,12 +10,10 @@ from selenium.webdriver.firefox.options import Options
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
-# Account data
+
 accounts = [
-    {"username": "NazadBes", "password": "THEHEXTHELORD2"},
-    {"username": "sasanicic73@gmail.com", "password": "THEHEXTHELORD2"},
-    {"username": "bojananicic123@gmail.com", "password": "THEHEXTHELORD2"},
-    {"username": "cepkochad", "password": "THEHEXTHELORD2"}
+    {"username": "", "password": ""}
+    
 ]
 
 base_url = "https://www.mozzartbet.com/sr/bonus-code"
