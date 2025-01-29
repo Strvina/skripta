@@ -17,10 +17,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 
 # Account data
 accounts = [
-    {"username": "NazadBes", "password": "THEHEXTHELORD2"},
-    {"username": "sasanicic73@gmail.com", "password": "THEHEXTHELORD2"},
-    {"username": "bojananicic123@gmail.com", "password": "THEHEXTHELORD2"},
-    {"username": "cepkochad", "password": "THEHEXTHELORD2"}
+    {"username": "", "password": ""}
+    
 ]
 
 # Base URL
