@@ -95,7 +95,6 @@ def perform_steps(driver, extracted_text):
 
 
 # Function to handle individual account workflow
-# Function to handle individual account workflow
 def handle_account(account):
     while True:
         driver = webdriver.Chrome(service=Service(r'C:\chromedriver-win64\chromedriver.exe'))
